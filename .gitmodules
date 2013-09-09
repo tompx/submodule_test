@@ -1,0 +1,3 @@
+[submodule "subm2"]
+	path = subm2
+	url = git@github.com:tompx/submodule_test2.git
